@@ -1,0 +1,23 @@
+{
+  "name": "Common",
+  "version": "1.0.0",
+  "description": "[![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgreen311/Common.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgreen311/Common/issues"
+  },
+  "homepage": "https://github.com/jamesgreen311/Common#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
